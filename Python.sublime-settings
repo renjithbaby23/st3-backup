@@ -1,0 +1,8 @@
+// These settings override both User and Default settings for the Python syntax
+{
+  // base settings
+  "auto_complete": false,
+  "sublimelinter": true,
+  "tab_size": 4,
+  "word_wrap": true
+}

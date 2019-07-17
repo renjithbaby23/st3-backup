@@ -1,0 +1,10 @@
+// SublimeLinter Settings - User
+// SublimeLinter Settings - User
+{
+    "linters": {
+    // The name of the linter you installed
+        "pylint": {
+            "args": ["--disable=C0103,C0304,R0903"]
+        }
+    }
+}
